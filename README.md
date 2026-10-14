@@ -1,4 +1,4 @@
-# Hair Salon POS
+# Urembo POS/CRM
 
 A full-featured Point of Sale and business management system built beauty hair salons. Built with Django + PostgreSQL + Tailwind CSS.
 
